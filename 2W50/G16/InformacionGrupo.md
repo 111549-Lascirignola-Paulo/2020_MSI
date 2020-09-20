@@ -12,8 +12,8 @@
 | :------: | :-------- | :-------- | :-------- |
 | 111549 | Lascirignola, Paulo Martin |[UsuarioGitHub](https://github.com/111549-Lascirignola-Paulo)|[UserLinkedin](https://www.linkedin.com/in/paulo-lascirignola/)|
 | 111658 | Della Casa, Nadia Stefania |[Nadia-Della-Casa](https://github.com/Nadia-Della-Casa)|[UserLinkedin](https://ar.linkedin.com/)|
-| 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
-| 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
+| 111587 | Romero, Iliana Sofía |[UsuarioGitHub](https://github.com/Iliana-Romero )|[UserLinkedin](https://ar.linkedin.com/)|
+| 111516 | Conchas Guzman, Ramiro Ariel |[UsuarioGitHub](https://github.com/111516-Ramiro-Ariel-Conchas-Guzman-2W50)|[UserLinkedin](https://www.linkedin.com/in/ramiro-guzm%C3%A1n-ba4686191/)|
 | 111111 | Apellido, Nombre1 Nombre2 |[UsuarioGitHub](https://github.com/xxxx)|[UserLinkedin](https://ar.linkedin.com/)|
 
 
